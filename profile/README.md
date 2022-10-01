@@ -25,11 +25,13 @@ Welcome to The Debuggers - The open source community 💗
 >   
 > 2. Create a new issue.
 > 
-> 3. Select the "Invitation to The Debuggers - GitHub Organization" and fill in your details.
+> 3. Select the Label "invitation" and fill in your details.
 > 
 > 4. That's it! You'll recieve an e-mail invitation to join our organization.. Make sure you accept it, then you will become a member of our GitHub Organization. 🎉
 
-### How do I set the membership to public?
+# Mandatory steps after joining
+
+### Set the membership to public
 
 > 1. Navigate to our GitHub community page: [The Debuggers](https://github.com/The-Debuggerz)
 >   
