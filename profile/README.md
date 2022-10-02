@@ -21,13 +21,15 @@ Welcome to The Debuggers - The open source community 💗
 
 ### How can I join the The Debuggers GitHub community?
 
-> 1. Go to the issues tab [here](https://github.com/The-Debuggerz/support/issues).
+> 1. Go to the issues tab [here](https://github.com/The-Debuggerz/support/issues/new/choose).
 >   
-> 2. Create a new issue.
+> 2. Select the Label "invitation" & Create a **New issue**.
 > 
-> 3. Select the Label "invitation" and fill in your details.
+> 3. Click on Invitation to The Debuggers - GitHub Organization.
 > 
-> 4. That's it! You'll recieve an e-mail invitation to join our organization.. Make sure you accept it, then you will become a member of our GitHub Organization. 🎉
+> 4. Fill in your details.
+>
+> 5. That's it! You'll recieve an e-mail invitation to join our organization.. Make sure you accept it, then you will become a member of our GitHub Organization. 🎉
 
 # Mandatory steps after joining
 
