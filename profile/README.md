@@ -23,7 +23,7 @@ Welcome to The Debuggers - The open source community 💗
 
 > 1. Go to the issues tab [here](https://github.com/The-Debuggerz/support/issues/new/choose)
 > 
-> 2. Click on Invitation to The Debuggers - GitHub Organization *Get started*
+> 2. Click on Invitation to The Debuggers - GitHub Organization [**Get started**]
 > 
 > 3. Fill in your details
 >
