@@ -7,7 +7,7 @@
 Welcome to The Debuggers - The open source community 💗
 
 <p align="left">
-<a href="https://discord.gg/2pfrQSBtAZ" style="text-decoration:none">
+<a href="https://discord.gg/metueyBQ9f" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://github.com/The-Debuggerz" style="text-decoration:none">
@@ -56,4 +56,4 @@ Welcome to The Debuggers - The open source community 💗
   
 ## Socials
 
-<a href="https://discord.gg/2pfrQSBtAZ">👋 Join our Discord community <strong>The Debuggers</strong> </a>
+<a href="https://discord.gg/metueyBQ9f">👋 Join our Discord community <strong>The Debuggers</strong> </a>
